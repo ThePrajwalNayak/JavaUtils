@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * FileAndFolderUtil class provide functionality to work with file and folder
+ * FileAndFolderUtil class provide functionality to work with file system and folder
  * 
  * @author prajwalnayak
  *
