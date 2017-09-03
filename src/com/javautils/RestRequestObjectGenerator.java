@@ -6,6 +6,8 @@ package com.javautils;
 import org.json.simple.JSONObject;
 
 /**
+ * RestRequestObjectGenerator class will generate Rest Json request object
+ * 
  * @author prajwalnayak
  *
  */
